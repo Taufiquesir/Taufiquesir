@@ -1,8 +1,12 @@
 ## Hi, I'm Md Taufique Hussain
 
-M.Tech student in Computer Science & Information Security at **IIIT Hyderabad**, working across
-**systems programming** and **machine learning** — from a Unix shell written from scratch in C++
-to transformer language models built without any framework.
+M.Tech student in Computer Science & Information Security at **IIIT Hyderabad**, building my
+career in **AI/ML, Natural Language Processing and Computer Vision**.
+
+I like understanding models from the inside out. My main project so far is a pair of transformer
+language models written completely from scratch in PyTorch, without using any framework's
+attention or transformer classes. I am currently studying Digital Image Processing and Computer
+Vision and working towards applying the same depth there.
 
 Before this I spent 4.5 years as a Project Engineer at L&T Construction. That job taught me how
 to stay calm when something breaks at 2 AM, which turns out to be useful in software too.
@@ -11,14 +15,16 @@ to stay calm when something breaks at 2 AM, which turns out to be useful in soft
 
 ### What I work on
 
-- **Language Models and NLP** — transformers, attention, tokenization, and what happens inside a
-  model when you take a part of it away
-- **Computer Vision and Digital Image Processing** — object detection, image preprocessing, and
-  using it for real problems like telling crops apart from weeds
-- **Deep Learning** — I would rather write the architecture myself than call `.fit()`
-- **Systems Programming** — operating systems, threads, networking, and the layers people usually
-  take for granted
+- **Natural Language Processing** — transformers, attention, tokenization, and what happens
+  inside a model when you take a part of it away
+- **Machine Learning and Deep Learning** — I would rather write the architecture myself than
+  call `.fit()`
+- **Computer Vision and Digital Image Processing** — currently learning, with a first project on
+  object detection for telling crops apart from weeds
 - **Problem Solving** — 450+ problems on LeetCode and GeeksforGeeks
+
+I have also built a few systems projects along the way, like a Unix shell from scratch, mostly
+because I wanted to know what is happening underneath the tools I use every day.
 
 ---
 
@@ -40,14 +46,9 @@ Most of my work lives in one place: **[MY_PROJECTS](https://github.com/Taufiques
 | Project | What it is | Built with |
 |---|---|---|
 | **Monolingual Transformer LMs** | Two decoder-only Transformer language models (26.5M params each) for Hindi and Nepali, written from scratch — no `nn.Transformer`, no HuggingFace. Includes reasoning finetuning and a no-positional-embedding ablation | PyTorch, SentencePiece |
-| **[POSIX Shell](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/POSIX_SHELL_IMPLEMENTATION)** | A Unix shell built from scratch — process control, pipelines, I/O redirection, signals and job control | C++11, POSIX, GNU readline |
 | **[SMS Spam Classifier](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/SMS_SPAM_CLASSIFIER)** · [live demo](https://sms-spam-classifier-taufique.streamlit.app) | Classifies SMS messages as spam or ham using TF-IDF and Multinomial Naive Bayes | Python, scikit-learn, NLTK, Streamlit |
 | **[Crop & Weed Detection](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/CROP_WEED_DETECTION)** | Object detection separating crops from weeds, enabling targeted pesticide use instead of blanket spraying | YOLOv3, Darknet, OpenCV |
-
-**Highlight —** the shell's `ls -l` output is byte-identical to the system `ls`,
-its pipelines never hang because every pipe descriptor is closed in the parent,
-and it compiles with zero warnings under `-Wall -Wextra`. It comes with a
-52-page implementation study and a full testing guide.
+| **[POSIX Shell](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/POSIX_SHELL_IMPLEMENTATION)** | A Unix shell built from scratch — process control, pipelines, I/O redirection, signals and job control | C++11, POSIX, GNU readline |
 
 **On the language models —** I implemented multi-head causal self-attention, RoPE positional
 embeddings and causal masking myself, then trained both models on 1.2B+ tokens I collected and
@@ -58,16 +59,16 @@ model does not fail evenly, it rebuilds a rough sense of position in a few middl
 
 ### Also here
 
-- **[DSA-SHEET](https://github.com/Taufiquesir/DSA-SHEET)** — data structures and algorithms in C++, organised by topic: arrays, graphs, trees, linked lists, recursion, bit manipulation, hashing
 - **[100_DAYS_ML](https://github.com/Taufiquesir/100_DAYS_ML)** — a machine learning study log, from data wrangling through to ensemble methods
+- **[DSA-SHEET](https://github.com/Taufiquesir/DSA-SHEET)** — data structures and algorithms in C++, organised by topic: arrays, graphs, trees, linked lists, recursion, bit manipulation, hashing
 - **[Weather-App](https://github.com/Taufiquesir/Weather-App)** — real-time weather using the OpenWeatherMap API
 
 ---
 
 ### Tools
 
-`C++` · `Python` · `POSIX / systems programming` · `PyTorch` · `scikit-learn` ·
-`OpenCV` · `TensorFlow` · `NumPy` · `Pandas` · `Streamlit` · `Git` · `LaTeX`
+`Python` · `PyTorch` · `scikit-learn` · `OpenCV` · `TensorFlow` · `NumPy` · `Pandas` ·
+`SentencePiece` · `Streamlit` · `C++` · `Git` · `LaTeX`
 
 ---
 
