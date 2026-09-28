@@ -21,7 +21,7 @@ to stay calm when something breaks at 2 AM, which turns out to be useful in soft
   call `.fit()`
 - **Computer Vision and Digital Image Processing** — currently learning, with a first project on
   object detection for telling crops apart from weeds
-- **Problem Solving** — 450+ problems on LeetCode and GeeksforGeeks
+- **Problem Solving** — 500+ problems on LeetCode and GeeksforGeeks
 
 I have also built a few systems projects along the way, like a Unix shell from scratch, mostly
 because I wanted to know what is happening underneath the tools I use every day.
