@@ -47,7 +47,7 @@ to stay calm when something breaks at 2 AM, which turns out to be useful in soft
 
 | Project | What it is | Built with |
 |---|---|---|
-| 🧠 **[Monolingual Transformer LMs](https://github.com/Taufiquesir/transformer-lm-hindi-nepali)** | Two decoder-only Transformer language models (26.5M params each) for Hindi and Nepali, written from scratch — no `nn.Transformer`, no HuggingFace. Trained on 1.2B+ self-collected tokens; reached 15.77 perplexity on Hindi | PyTorch, SentencePiece |
+| 🧠 **[Monolingual Transformer LMs](https://github.com/Taufiquesir/Monolingual-Transformer-Language-Models-from-Scratch-Hindi-Nepali)** | Two decoder-only Transformer language models (26.5M params each) for Hindi and Nepali, written from scratch — no `nn.Transformer`, no HuggingFace. Trained on 1.2B+ self-collected tokens; reached 15.77 perplexity on Hindi | PyTorch, SentencePiece |
 | 💬 **[SMS Spam Classifier](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/SMS_SPAM_CLASSIFIER)** · [live demo](https://sms-spam-classifier-taufique.streamlit.app) | Classifies SMS messages as spam or ham using TF-IDF and Multinomial Naive Bayes | Python, scikit-learn, NLTK, Streamlit |
 | 🌱 **[Crop & Weed Detection](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/CROP_WEED_DETECTION)** | Object detection separating crops from weeds, enabling targeted pesticide use instead of blanket spraying | YOLOv3, Darknet, OpenCV |
 | 🐚 **[POSIX Shell](https://github.com/Taufiquesir/MY_PROJECTS/tree/main/POSIX_SHELL_IMPLEMENTATION)** | A Unix shell built from scratch — process control, pipelines, I/O redirection, signals and job control | C++, Linux, GNU readline |
