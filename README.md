@@ -28,7 +28,7 @@ to stay calm when something breaks at 2 AM, which turns out to be useful in soft
 
 - 🔭 **Currently building:** a distributed LLM inference engine with pipeline parallelism
 - 📚 **Currently learning:** Digital Image Processing and Computer Vision
-- 🧩 **Problem solving:** 500+ DSA problems on LeetCode and GeeksforGeeks
+- 🧩 **Problem solving:** 700+ DSA problems on LeetCode and GeeksforGeeks
 
 ---
 
