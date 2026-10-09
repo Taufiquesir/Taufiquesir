@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Taufiquesir">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=M.Tech+CSE+(Information+Security)+%40+IIIT+Hyderabad;Building+LLMs+from+scratch+in+PyTorch;AI+%2F+ML+%C2%B7+NLP+%C2%B7+LLM+Systems" alt="Typing intro" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=800&lines=M.Tech+in+Computer+Science+and+Information+Security+%40+IIIT+Hyderabad;Building+LLMs+from+scratch+in+PyTorch;AI+%2F+ML+%C2%B7+NLP+%C2%B7+LLM+Systems" alt="Typing intro" />
   </a>
 </p>
 
